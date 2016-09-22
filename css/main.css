@@ -1,0 +1,96 @@
+h1, h2, h3 {
+	font-family: 'Merriweather';
+}
+p {
+	font-family: 'Open Sans';
+}
+img {
+	margin: 5%;
+}
+/* header */
+/* banner */
+.jumbotron {
+	background-image: url(../img/creamy.jpg);
+	border-radius: 0px;
+	padding: 0;
+	height: 500px;
+	margin: 0;
+}
+.jumbotron .container {
+	background-color: rgba(0, 0, 0, 0.5);
+	background-size: cover;
+	margin: 0;
+	padding-top: 10%;
+	width: 100%;
+	height: 100%;
+}
+.banner h1 {
+	color: white;
+}
+.banner p {
+	color: white;
+}
+/* oh */
+.oh {
+	background-color: rgb(244, 240, 187);
+	margin: 0;
+	padding: 0;
+	padding-right: 0;
+}
+.oh h2 {
+	color: rgb(218, 44, 56);
+	margin: 10% auto 1% auto;
+}
+.oh p {
+	color: rgb(218, 44, 56);
+	margin: 2% 8% 10% 8%;
+}
+/* about */
+.about {
+	background-color: rgb(218, 44, 56);
+	margin: 0;
+	padding: 0;
+}
+.about h2 {
+	color: rgb(244, 240, 187);
+	margin: 5% auto 1% auto;
+}
+.about p {
+	color: rgb(244, 240, 187);
+	margin: 1% 8% 5% 8%;
+}
+/* columnas */
+.columnas {
+	background-color: rgb(244, 240, 187);
+	margin: 0;
+	padding: 0;
+}
+.icono {
+	width: 100%;
+	height: auto;
+	align: center;
+	margin: 1px solid black;
+	margin: 10% auto 5% auto;
+}
+.icono span {
+	color: rgb(218, 44, 56);
+	width: 100%;
+	font-size: 100px;
+}
+.columnas h2 {
+	color: rgb(218, 44, 56);
+}
+.columnas p {
+	color: rgb(218, 44, 56);
+	margin: 1% 10% 20% 10%;
+}
+/* footer */
+footer {
+	background-color: rgb(218, 44, 56);
+	margin: 0;
+	padding: 0;
+}
+footer p {
+	color: rgb(244, 240, 187);
+	margin: 1% 3%;
+}
